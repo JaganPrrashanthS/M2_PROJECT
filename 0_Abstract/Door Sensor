@@ -1,0 +1,2 @@
+A Door Sensor is connected to bit 1 of Port B,and an leds connected to bit6 of port C.An AVR C program to monitor the door sensor and
+when it opens, turns on the LED without changing the state of other pins.
