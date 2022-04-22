@@ -1,5 +1,5 @@
           
-             Door Sensor Embeded C project is used inorder to indicate the door Open or  Close by glowing the Led.If the Door is Open Led will ON else Led will be in OFF condition.
+             Door Sensor Embedded C project is used inorder to indicate the door Open or  Close by glowing the Led.If the Door is Open Led will ON else Led will be in OFF condition.
 
 ATMEL STUDIO-
 
